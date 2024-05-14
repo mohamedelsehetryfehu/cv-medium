@@ -16,10 +16,10 @@ This project focuses on developing an algorithm capable of automatically detecti
 To use this project, follow these steps:
 
 ###  :electric_plug: Installation
-1- Clone the repository.
-2- Install the required dependencies.
-3- Ensure you have Python installed on your system.
-4- Place the base image and patch image you wish to process in the project directory.
+- Clone the repository.
+- Install the required dependencies.
+- Ensure you have Python installed on your system.
+- Place the base image and patch image you wish to process in the project directory.
 
 ##  :wrench: Development
 If you wish to contribute to the development of this project, follow the guidelines below:
@@ -35,7 +35,7 @@ Ensure you have the following prerequisites installed:
 ###  :nut_and_bolt: Development Environment
 To set up the development environment, follow these steps:
 
-1- Clone the repository.
-2- Install the required dependencies.
-3- Configure your preferred development environment (e.g., virtual environment, IDE).
-4- Start coding and contribute to the project's enhancement!
+- Clone the repository.
+- Install the required dependencies.
+- Configure your preferred development environment (e.g., virtual environment, IDE).
+- Start coding and contribute to the project's enhancement!
